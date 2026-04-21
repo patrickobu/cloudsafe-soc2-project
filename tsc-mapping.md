@@ -1,5 +1,10 @@
 # Trust Service Criteria Mapping
 
+![Organisation](https://img.shields.io/badge/Organisation-CloudSafe%20SaaS-blue)
+![Audit](https://img.shields.io/badge/Audit-SOC%202%20Type%20II-orange)
+![Criteria](https://img.shields.io/badge/Criteria-5%20Covered-blue)
+![Controls](https://img.shields.io/badge/Controls%20Mapped-89-purple)
+
 **Organisation:** CloudSafe SaaS
 **Document:** Controls mapped to SOC 2 Trust Service Criteria
 **Version:** 1.0
