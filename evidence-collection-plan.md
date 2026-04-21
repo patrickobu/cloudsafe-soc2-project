@@ -1,5 +1,10 @@
 # Evidence Collection Plan
 
+![Organisation](https://img.shields.io/badge/Organisation-CloudSafe%20SaaS-blue)
+![Audit](https://img.shields.io/badge/Audit-SOC%202%20Type%20II-orange)
+![Period](https://img.shields.io/badge/Evidence%20Period-6%20Months-purple)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
 **Organisation:** CloudSafe SaaS
 **Document:** SOC 2 Type II Evidence Collection Plan
 **Version:** 1.0
