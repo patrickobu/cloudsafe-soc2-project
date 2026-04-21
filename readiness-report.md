@@ -1,4 +1,9 @@
 # SOC 2 Type II Readiness Report
+![Organisation](https://img.shields.io/badge/Organisation-CloudSafe%20SaaS-blue)
+![Readiness](https://img.shields.io/badge/Overall%20Readiness-Approaching%20Ready-yellow)
+![Security](https://img.shields.io/badge/Security%20CC-70%25-orange)
+![Gaps](https://img.shields.io/badge/Gaps%20to%20Fix-9-red)
+
 
 **Organisation:** CloudSafe SaaS
 **Document:** Pre-Audit Readiness Assessment
