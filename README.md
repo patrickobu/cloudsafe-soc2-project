@@ -73,13 +73,10 @@ CloudSafe is pursuing SOC 2 Type II covering all five criteria.
 
 | File | Description |
 |------|-------------|
-| `README.md` | This file — project overview |
-| `tsc-mapping.md` | Controls mapped to all five Trust Service Criteria |
-| `gap-assessment.md` | Pre-audit gap assessment results |
-| `evidence-collection-plan.md` | Plan for gathering audit evidence |
-| `readiness-report.md` | Overall readiness assessment and recommendations |
-| `control-descriptions.md` | Detailed descriptions of all CloudSafe controls |
-| `vendor-management.md` | Subservice organisation documentation |
+| [README.md](README.md) | This file — project overview |
+| [tsc-mapping.md](tsc-mapping.md) | Controls mapped to all five Trust Service Criteria |
+| [evidence-collection-plan.md](evidence-collection-plan.md) | Plan for gathering audit evidence |
+| [readiness-report.md](readiness-report.md) | Overall readiness assessment and recommendations |
 
 ---
 
