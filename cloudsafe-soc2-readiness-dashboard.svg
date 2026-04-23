@@ -1,0 +1,89 @@
+<svg width="100%" viewBox="0 0 680 460" xmlns="http://www.w3.org/2000/svg">
+<title>CloudSafe SaaS SOC 2 Type II readiness dashboard across five trust service criteria</title>
+<desc>Dashboard showing readiness percentage for each of the five SOC 2 Trust Service Criteria with overall readiness score and key gaps</desc>
+
+<text x="340" y="26" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="bold" fill="#7A5200">CloudSafe SaaS — SOC 2 Type II Readiness Dashboard</text>
+<text x="340" y="44" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#555">Pre-audit gap assessment across all five Trust Service Criteria</text>
+
+<!-- Five TSC score cards -->
+<!-- Security CC - 70% -->
+<rect x="30" y="62" width="114" height="100" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1"/>
+<text x="87" y="84" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="bold" fill="#0C447C">Security</text>
+<text x="87" y="98" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#185FA5">(Common Criteria)</text>
+<text x="87" y="128" text-anchor="middle" font-family="Arial,sans-serif" font-size="26" font-weight="bold" fill="#185FA5">70%</text>
+<text x="87" y="150" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#185FA5">45 controls</text>
+
+<!-- Availability - 75% -->
+<rect x="156" y="62" width="114" height="100" rx="8" fill="#E1F5EE" stroke="#0F6E56" stroke-width="1"/>
+<text x="213" y="84" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="bold" fill="#085041">Availability</text>
+<text x="213" y="98" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#0F6E56">99.9% SLA</text>
+<text x="213" y="128" text-anchor="middle" font-family="Arial,sans-serif" font-size="26" font-weight="bold" fill="#0F6E56">75%</text>
+<text x="213" y="150" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#0F6E56">12 controls</text>
+
+<!-- Processing Integrity - 80% -->
+<rect x="282" y="62" width="114" height="100" rx="8" fill="#EAF3DE" stroke="#3B6D11" stroke-width="1"/>
+<text x="339" y="84" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="bold" fill="#27500A">Processing</text>
+<text x="339" y="98" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#3B6D11">Integrity</text>
+<text x="339" y="128" text-anchor="middle" font-family="Arial,sans-serif" font-size="26" font-weight="bold" fill="#3B6D11">80%</text>
+<text x="339" y="150" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#3B6D11">8 controls</text>
+
+<!-- Confidentiality - 70% -->
+<rect x="408" y="62" width="114" height="100" rx="8" fill="#EEEDFE" stroke="#534AB7" stroke-width="1"/>
+<text x="465" y="84" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="bold" fill="#3C3489">Confid-</text>
+<text x="465" y="98" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#534AB7">entiality</text>
+<text x="465" y="128" text-anchor="middle" font-family="Arial,sans-serif" font-size="26" font-weight="bold" fill="#534AB7">70%</text>
+<text x="465" y="150" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#534AB7">10 controls</text>
+
+<!-- Privacy - 75% -->
+<rect x="534" y="62" width="114" height="100" rx="8" fill="#FFF8E1" stroke="#E6A817" stroke-width="1"/>
+<text x="591" y="84" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="bold" fill="#7A5200">Privacy</text>
+<text x="591" y="98" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#E6A817">Data subjects</text>
+<text x="591" y="128" text-anchor="middle" font-family="Arial,sans-serif" font-size="26" font-weight="bold" fill="#E6A817">75%</text>
+<text x="591" y="150" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#E6A817">14 controls</text>
+
+<!-- Overall readiness meter -->
+<rect x="30" y="182" width="620" height="70" rx="10" fill="#FFF8E1" stroke="#E6A817" stroke-width="1.5"/>
+<text x="340" y="202" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#7A5200">Overall Readiness — 65% — Approaching Ready</text>
+<rect x="50" y="212" width="580" height="24" rx="12" fill="#E0D5A0"/>
+<rect x="50" y="212" width="377" height="24" rx="12" fill="#E6A817"/>
+<text x="238" y="229" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#fff" font-weight="bold">65% ready for audit</text>
+<text x="520" y="229" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#7A5200" font-weight="bold">35% remaining</text>
+
+<!-- What is ready vs gap -->
+<rect x="30" y="270" width="295" height="90" rx="8" fill="#E1F5EE" stroke="#1A6B3C" stroke-width="1"/>
+<text x="177" y="290" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#1A6B3C">✅ Ready for audit</text>
+<text x="50" y="308" font-family="Arial,sans-serif" font-size="11" fill="#333">MFA and access controls (CC6)</text>
+<text x="50" y="324" font-family="Arial,sans-serif" font-size="11" fill="#333">Change management process (CC8)</text>
+<text x="50" y="340" font-family="Arial,sans-serif" font-size="11" fill="#333">Privacy notice and consent (P1, P2)</text>
+<text x="50" y="356" font-family="Arial,sans-serif" font-size="11" fill="#333">Uptime monitoring (A1)</text>
+
+<rect x="355" y="270" width="295" height="90" rx="8" fill="#FFEBEE" stroke="#CC0000" stroke-width="1"/>
+<text x="502" y="290" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#8A0000">❌ Fix before audit</text>
+<text x="375" y="308" font-family="Arial,sans-serif" font-size="11" fill="#333">Formal risk assessment (CC3)</text>
+<text x="375" y="324" font-family="Arial,sans-serif" font-size="11" fill="#333">Data classification policy (C1)</text>
+<text x="375" y="340" font-family="Arial,sans-serif" font-size="11" fill="#333">Backup restoration testing (A1)</text>
+<text x="375" y="356" font-family="Arial,sans-serif" font-size="11" fill="#333">Privacy incident procedure (P8)</text>
+
+<!-- Timeline -->
+<rect x="30" y="376" width="620" height="68" rx="8" fill="#F4F7FC" stroke="#185FA5" stroke-width="1"/>
+<text x="340" y="394" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#1A4B8A">Recommended Audit Timeline</text>
+<text x="90" y="415" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#333">Months 1-3</text>
+<text x="90" y="429" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#333">Fix 9 gaps</text>
+<text x="90" y="435" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#333">↓</text>
+<text x="240" y="415" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#333">Months 4-9</text>
+<text x="240" y="429" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#333">Collect evidence</text>
+<text x="390" y="415" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#333">Month 10</text>
+<text x="390" y="429" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#333">Pre-audit review</text>
+<text x="540" y="415" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#333">Months 11-12</text>
+<text x="540" y="429" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#333">SOC 2 audit</text>
+<!-- timeline arrows -->
+<line x1="140" y1="422" x2="175" y2="422" stroke="#185FA5" stroke-width="1"/>
+<line x1="175" y1="422" x2="172" y2="418" stroke="#185FA5" stroke-width="1"/>
+<line x1="175" y1="422" x2="172" y2="426" stroke="#185FA5" stroke-width="1"/>
+<line x1="290" y1="422" x2="325" y2="422" stroke="#185FA5" stroke-width="1"/>
+<line x1="325" y1="422" x2="322" y2="418" stroke="#185FA5" stroke-width="1"/>
+<line x1="325" y1="422" x2="322" y2="426" stroke="#185FA5" stroke-width="1"/>
+<line x1="440" y1="422" x2="475" y2="422" stroke="#185FA5" stroke-width="1"/>
+<line x1="475" y1="422" x2="472" y2="418" stroke="#185FA5" stroke-width="1"/>
+<line x1="475" y1="422" x2="472" y2="426" stroke="#185FA5" stroke-width="1"/>
+</svg>
