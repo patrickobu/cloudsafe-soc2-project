@@ -150,6 +150,8 @@ other criteria.
 | Privacy | 14 | 9 | 3 | 2 |
 | **Total** | **89** | **58 (65%)** | **22 (25%)** | **9 (10%)** |
 
+![SOC 2 readiness dashboard](cloudsafe-soc2-readiness-dashboard.svg)
+
 ---
 
 ## Audit Readiness Assessment
